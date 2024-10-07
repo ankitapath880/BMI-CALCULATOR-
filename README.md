@@ -1,2 +1,2 @@
-# BMI-CALCULATOR-
+# BMI-CALCULATOR
 Body Mass Calculator 
